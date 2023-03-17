@@ -120,7 +120,7 @@
                     android:layout_height="96dp"
                     android:layout_gravity="center"
                     android:layout_marginLeft="20dp"
-                    android:src="@drawable/techdomain"
+                    android:src="@drawable/hackathons"
                     app:civ_border_color="#FF000000"
                     app:civ_border_width="2dp" />
 
@@ -130,7 +130,7 @@
                     android:layout_height="96dp"
                     android:layout_gravity="center"
                     android:layout_marginLeft="40dp"
-                   android:src="@drawable/opensourceimage"
+                   android:src="@drawable/intership1"
                     app:civ_border_color="#FF000000"
                     app:civ_border_width="2dp" />
 
